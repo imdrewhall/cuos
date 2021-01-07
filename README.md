@@ -1,2 +1,2 @@
 # cuos
-hi
+Here is where everything begins.
